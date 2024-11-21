@@ -118,4 +118,3 @@ if uploaded_file is not None:
                 finally:
                     if os.path.exists(tmp_file_path):
                         os.remove(tmp_file_path)
-streamlit run app12.py
