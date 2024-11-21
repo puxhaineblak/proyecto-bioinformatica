@@ -1,3 +1,4 @@
+pip install biopython
 import streamlit as st  # type: ignore
 from Bio import SeqIO  # type: ignore
 import pandas as pd  # type: ignore
